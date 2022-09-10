@@ -9,6 +9,14 @@ Made for study and fun purpouses, in this project i learned:
 - How to format a string and put variables in it
 - How to work properly with return of variables in python
 
+## Usage
+
+To use Based Movies, first you have to make sure that you have python installed in your machine and then acess the directory you installed it, and then load:
+
+```bash
+  pip3 install -r requirements.txt
+  python3 based.py
+```
 
 ## Demo 
 
