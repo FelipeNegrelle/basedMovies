@@ -1,8 +1,9 @@
 # Based Movies
 The right CLI tool for chossing a movie to watch
 
-This project was developed in python, and consists in a CLI tool, that throws you in menu and let you decide what to do
-Made for study and fun purpouses, in this project i learned:
+This project was developed in python, and consists in a CLI tool, and let you decide what to do.
+
+Made for study and fun purposes, in this project i learnt:
  
 - How to create a menu in python with questionary lib
 - How to manipulate data in lists
@@ -11,7 +12,7 @@ Made for study and fun purpouses, in this project i learned:
 
 ## Usage
 
-To use Based Movies, first you have to make sure that you have python installed in your machine and then acess the directory you installed it, and then load:
+To use Based Movies, first you have to make sure that you have python installed in your machine and then access the directory you installed it, and then load:
 
 ```bash
   pip3 install -r requirements.txt
